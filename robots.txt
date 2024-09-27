@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riijn.github.io/eZT/sitemap.eZT.gz
